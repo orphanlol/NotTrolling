@@ -1,2 +1,3 @@
-# NewTube-NYC
-[this will be highly stripped down, and WILL NOT bypass restricted material]
+# N.T.
+N.T. is a utility for **something**
+may involve Scratch
