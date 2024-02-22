@@ -10,6 +10,11 @@ p {
   margin-bottom: 20px;
 }
 
+/* you */
+balls {
+  font size: 999px;
+  font-family: 'Comfortaa', sans-serif;
+}
 /* Style headings, but prob not gonna use last three */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
